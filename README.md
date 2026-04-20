@@ -1,1 +1,0 @@
-# Vin_AI_data_competitions_NewtonMethod
