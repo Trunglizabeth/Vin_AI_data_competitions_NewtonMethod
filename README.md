@@ -26,7 +26,7 @@ Dự án này giải quyết trọn vẹn bài toán vận hành của một doa
 Chúng tôi khuyến nghị chạy dự án trong môi trường ảo (Virtual Environment) để đảm bảo các phiên bản thư viện hoạt động chính xác. Mở Terminal/Command Prompt và chạy lần lượt các lệnh sau:
 
 # Clone repository về máy local
-git clone [https://github.com/YOUR-USERNAME/Vin_AI_data_competitions_NewtonMethod.git](https://github.com/YOUR-USERNAME/Vin_AI_data_competitions_NewtonMethod.git)
+git clone [https://github.com/Trunglizabeth/Vin_AI_data_competitions_NewtonMethod](https://github.com/Trunglizabeth/Vin_AI_data_competitions_NewtonMethod.git)
 cd Vin_AI_data_competitions_NewtonMethod
 
 # Tạo môi trường ảo (đặt tên là .venv)
